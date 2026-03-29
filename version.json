@@ -1,6 +1,6 @@
 {
-  "version": "99.0.0",
-  "notes": "Test mise a jour",
-  "download_url": "https://firebasestorage.googleapis.com/v0/b/pharmaloc-vscode.firebasestorage.app/o/releases%2FPharmaLoc%20Setup%201.0.0.exe?alt=media&token=f8a12b6e-bd3a-4683-8b9c-8f259cbc30f7",
+  "version": "1.0.1",
+  "notes": "Correction erreur base de données",
+  "download_url": "https://github.com/TELEPHARM-SERVICE/pharmaloc-updates/releases/download/v1.0.1/PharmaLoc.Setup.1.0.1.exe",
   "mandatory": false
 }
