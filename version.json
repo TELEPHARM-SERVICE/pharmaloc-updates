@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "Correction erreur base de données",
-  "download_url": "https://github.com/TELEPHARM-SERVICE/pharmaloc-updates/releases/download/v1.0.1/PharmaLoc.Setup.1.0.1.exe",
+  "version": "1.0.2",
+  "notes": "Guide utilisation + configuration reseau client/serveur",
+  "download_url": "https://github.com/TELEPHARM-SERVICE/pharmaloc-updates/releases/download/v1.0.2/PharmaLoc.Setup.1.0.2.exe",
   "mandatory": false
 }
