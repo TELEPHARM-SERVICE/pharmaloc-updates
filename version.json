@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Guide utilisation + configuration reseau client/serveur",
-  "download_url": "https://github.com/TELEPHARM-SERVICE/pharmaloc-updates/releases/download/v1.0.2/PharmaLoc.Setup.1.0.2.exe",
+  "version": "1.0.3",
+  "notes": "Ce qui a changé dans cette version",
+  "download_url": "https://github.com/TELEPHARM-SERVICE/pharmaloc-updates/releases/download/v1.0.3/Gestlock.Setup.1.0.3.exe",
   "mandatory": false
 }
